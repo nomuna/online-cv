@@ -9,4 +9,4 @@ gem 'github-pages'
 
 gem "webrick", "~> 1.7"
 gem "rake"
-ruby "2.4.2"
+ruby "3.0.1"
